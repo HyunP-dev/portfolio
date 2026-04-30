@@ -1,4 +1,4 @@
-#set text(font: "NanumGothic")
+#set text(font: ("NanumGothic", "Malgun Gothic"))
 
 #import "@preview/diatypst:0.9.1": *
 #show: slides.with(
